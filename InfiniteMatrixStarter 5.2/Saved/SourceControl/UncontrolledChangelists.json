@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/HUD.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Material.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/Masterball.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Meshes/SM_Enemy__1_.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/ScoreSound.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/NewMaterial.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/blue.uasset",
+				"C:/Users/vinay/Downloads/InfiniteMatrixStarterProject 2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/CameraShake.uasset"
+			]
+		}
+	]
+}
